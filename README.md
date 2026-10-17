@@ -76,7 +76,7 @@
 
 | Proyecto | Descripción | Tecnologías | Enlace |
 | :--- | :--- | :--- | :---: |
-| **🎓 Trabajo de Fin de Grado (UPM)** | *Simulador Basado en Agentes para medir el impacto de los hábitos dietéticos en la salud cardiovascular* | `Python` `ABM (Mesa)` `Jupyter Notebook` | [🔗 Repo](https://github.com/alexxgonzalezz/TFG_CardiovascularABM) |
+| **🎓 Trabajo de Fin de Grado (Nota: 10/10)** | *Modelo Basado en Agentes y simulaciones de Montecarlo para predecir el impacto de 4 dietas distintas sobre la salud cardiovascular* | `Python` `Mesa` `Pandas` `NumPy` `Seaborn` | [🔗 Repo](https://github.com/alexxgonzalezz/TFG_CardiovascularABM) |
 
 ---
 
