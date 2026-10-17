@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>¡Hola! Soy Alejandro González Carrasco 👋</h1>
+  <h1>¡Hola Mundo! Soy Alejandro González Carrasco 👋</h1>
   <h3>Ingeniero de Datos | Graduado por la Universidad Politécnica de Madrid (UPM)</h3>
-  <p>Apasionado por diseñar arquitecturas de datos escalables, construir pipelines ETL/ELT robustos y transformar datos en bruto en soluciones de alto impacto mediante Big Data y Machine Learning.</p>
+  <p>Actualmente trabajo como becario para Telefónica Tech en el departamento de Cyber Security & Cloud</p>
 
   <!-- Enlaces de Contacto -->
   <p>
