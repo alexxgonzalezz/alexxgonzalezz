@@ -22,8 +22,8 @@
 
 - 🎓 Graduado en **Ingeniería y Sistemas de Datos** por la **Universidad Politécnica de Madrid (UPM)**.
 - 💼 Actualmente trabajando en **Telefónica Tech** como becario en el área de **Cyber Security & Cloud**.
-* 🌱 Especialmente interesado en seguir profundizando en el **manejo de grandes volúmenes de datos** para transformarlos en valor mediante **soluciones end-to-end**.
-* 💡 Enfocado y motivado también por áreas como el **despliegue Cloud**, la **Inteligencia Artificial** y la **Ciberseguridad**.
+- 🌱 Especialmente interesado en seguir profundizando en el **manejo de grandes volúmenes de datos** para transformarlos en valor mediante **soluciones end-to-end**.
+- 💡 Enfocado y motivado también por áreas como el **despliegue Cloud**, la **Inteligencia Artificial** y la **Ciberseguridad**.
 - 📍 Madrid, España.
 
 ---
